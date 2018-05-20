@@ -1,5 +1,9 @@
 ---
 footer:
 - url: "/test/"
-  weight: 1
+  weight: 4
   title: test
+navigation:
+- url: "/test"
+  weight: 1
+  title: Some Test
