@@ -1,0 +1,5 @@
+---
+footer:
+- url: "/test/"
+  weight: 1
+  title: test
