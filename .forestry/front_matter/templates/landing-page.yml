@@ -77,4 +77,5 @@ fields:
   hidden: true
   default: home
 pages:
+- landing-page.html
 - new-landing-page.html
