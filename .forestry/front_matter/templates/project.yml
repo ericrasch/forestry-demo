@@ -26,3 +26,14 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: include
+- type: list
+  config:
+    use_select: true
+    source:
+      type: datafiles
+      file: _data-information-yml
+      path: information
+  label: Test Select
+  name: test_select
+  description: This is a test of Front Matter

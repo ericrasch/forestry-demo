@@ -16,6 +16,9 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: text
+  name: slug
+  label: Slug
 - name: tags
   label: Tags
   type: tag_list
@@ -38,3 +41,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- hi-there.html
