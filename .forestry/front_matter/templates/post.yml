@@ -42,4 +42,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _projects/hi-there.html
 - hi-there.html
